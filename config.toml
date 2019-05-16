@@ -1,0 +1,68 @@
+baseurl         = "https://essssd3k.netlify.com/"
+theme = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "3K"
+  subtitle    = "Time Series, CSTS, and Panel Data"
+  copyright   = "© 2019"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Social science involves comparison across time and space.  This course presents statistical tools for precisely this set of problems."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "PieRatio"
+  fbName = "fakeghost"
+  githubName = "robertwwalker"
+  linkedinName = "rwwalker"
+  mediumName = ""
+
+  logo = "logo3k.png"
+  orgName = "AGSM"
+  orgWebsite = "https://agsm.willamette.edu"
+  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "RWW"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Salem, OR"
+  authorWebsite = "https://rww.science"
+  authorDescription = "Associate Professor of Quantitative Methods: Atkinson Graduate School of Management"
+
+  pageNotFoundTitle = "404 is a funny number for no idea what page you seek."
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
+
+
