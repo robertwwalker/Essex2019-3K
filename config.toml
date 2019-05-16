@@ -1,4 +1,4 @@
-baseurl         = "https://essssd3k.netlify.com/"
+baseurl         = "https://essex2019-3k.netlify.com/"
 theme = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
