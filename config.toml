@@ -8,7 +8,7 @@ canonifyurls    = true
 
 [params]
   title       = "3K"
-  subtitle    = "Time Series, CSTS, and Panel Data"
+  subtitle    = "3K: Time Series and Panel Data"
   copyright   = "© 2019"
 
   cover       = "img/blog-cover.jpg"
@@ -24,15 +24,15 @@ canonifyurls    = true
   linkedinName = "rwwalker"
   mediumName = ""
 
-  logo = "logo3k.png"
-  orgName = "AGSM"
+  logo = "img/HLogo2.png"
+  orgName = "Essex Summer School"
   orgWebsite = "https://agsm.willamette.edu"
   orgDescription = "Here is a description placeholder for your org"
 
   showSupport = true
 
   author = "RWW"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "img/portrait.jpg"
   authorLocation = "Salem, OR"
   authorWebsite = "https://rww.science"
   authorDescription = "Associate Professor of Quantitative Methods: Atkinson Graduate School of Management"
@@ -51,18 +51,17 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
-  weight = 100
-
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
+  name = "Readings"
+  url = "/readings/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "Lectures"
+  url = "/lectures/"
   weight = 95
 
+[[menu.main]]
+  name = "Code and Markdown"
+  url = "/post/"
+  weight = 90
 

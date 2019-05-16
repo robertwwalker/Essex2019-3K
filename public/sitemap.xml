@@ -3,126 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/getting-started-with-dynamic-and-heterogeneous-data/</loc>
+    <loc>/post/getting-started-with-dynamic-and-heterogeneous-data/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/hello-r-markdown/</loc>
+    <loc>/post/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/getting-started-with-hugo/</loc>
+    <loc>/post/getting-started-with-hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/hugo-template-primer/</loc>
+    <loc>/post/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/</loc>
+    <loc>/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://essex2019-3k.netlify.com/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
